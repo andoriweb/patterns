@@ -7,4 +7,6 @@ Patterns
 
 ["bg-gradient"](https://andoriweb.github.io/patterns/bg-gradient/ "Demo") - Всплываха jQuerry
 
-["Filter colors jQuery"](https://andoriweb.github.io/patterns/Filter__jQuery "Demo") - Фильтер для фото, работ, тем.
+["Filter colors jQuery"](https://andoriweb.github.io/patterns/Filter__jQuery "Demo") - Фильтер для фото, работ, тем
+
+["Filter colors JavaScript"](https://andoriweb.github.io/patterns/Filter__JS "Demo") - Фильтер для фото, работ, тем
