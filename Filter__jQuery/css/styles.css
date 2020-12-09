@@ -1,0 +1,63 @@
+* {
+  box-sizing: border-box;
+}
+
+ul {
+  list-style: none;
+  padding: 0px;
+  margin: 0px;
+}
+
+li {
+  margin: 0px;
+  padding: 0px;
+}
+
+a {
+  cursor: pointer;
+}
+
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.filters {
+  text-align: center;
+  padding: 30px 0;
+}
+
+.filters li {
+  display: inline-block;
+  font-size: 24px;
+  padding: 10px 20px;
+}
+
+.filters li.active a {
+  color: #f00;
+}
+
+.products {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.products li {
+  width: 150px;
+  height: 150px;
+  margin: 10px 15px 30px 15px;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.green {
+  background-color: green;
+}
