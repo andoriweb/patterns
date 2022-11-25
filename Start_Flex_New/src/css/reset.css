@@ -35,7 +35,7 @@ body {
 a {
 	text-decoration: none;
 }
-a:active {
+a:active, button:active {
 	outline: none;
 }
 ol, ul {
@@ -57,4 +57,10 @@ table {
 button, input {
 	border: none;
 	outline: none;
+	padding: 0;
+	margin: 0;
+}
+button {
+	cursor: pointer;
+	background: none;
 }
