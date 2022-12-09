@@ -1,6 +1,6 @@
 # patterns
 
-Patterns
+Patterns HTML
 
 ["dark-bg"](https://andoriweb.github.io/patterns/dark-bg/ "Demo") - Затемнение фона
 
